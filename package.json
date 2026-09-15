@@ -1,5 +1,5 @@
 {
-  "name": "${PROJECT_NAME}",
+  "name": "Технологии индустриального программирования",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
