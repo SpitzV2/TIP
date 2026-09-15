@@ -22,6 +22,6 @@ if (!validTotal || !validCompleted) {
     console.log(`Всего задач: ${totalTasks}`);
     console.log(`Выполнено: ${completedTasks}`);
     console.log(`Осталось: ${remainingTasks}`);
-    console.log(`Прогресс: ${progress.toFixed(1)}%`);
+    console.log(`Прогресс: ${percentage.toFixed(1)}%`);
     console.log(`Статус: ${status}`);
 }
